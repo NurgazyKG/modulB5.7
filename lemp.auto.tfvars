@@ -1,0 +1,6 @@
+zone               = "ru-central1-a"
+folder_id          = "b1g2gdiki6vgl03bki5m"
+vm_image_family    = "lamp"
+vm_image_family_lemp   = "lemp"
+vm_user            = "dolphin"
+ssh_key_path       = "~/.ssh/id_rsa.pub"
